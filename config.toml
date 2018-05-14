@@ -88,7 +88,7 @@ icon_pack = "fa"
 link = "//github.com/gcushen"
 
 [[params.social]]
-icon = "fa-facebook"
+icon = "facebook"
 icon_pack = "fa"
 link = "//facebook.com/universidaddesalamanca"
 
@@ -116,11 +116,6 @@ weight = 3.0
 name = "Projects"
 url = "#projects"
 weight = 4.0
-
-[[menu.main]]
-name = "Teaching"
-url = "#teaching"
-weight = 5.0
 
 [[menu.main]]
 name = "Talks"
