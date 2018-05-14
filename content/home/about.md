@@ -16,6 +16,9 @@ education:
     - course: Statistics
       institution: University of Salamanca
       year: 2019
+    - course: Statistics 2
+      institution: University of Salamanca
+      year: 2019
     - course: Escalada
       institution: Universidad Salamanca
       year: '2018'
